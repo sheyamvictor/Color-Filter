@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    padding: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+
+}
+
+.container2{
+    padding: 10px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+margin-top: 150px;
+}
+
+.container2 button{
+    padding: 20px;
+    border: 1px;
+    font-weight: bold;
+    background-color: black;
+    color: aquamarine;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 3px;
+}
+
+#flip{
+    padding: 16px;
+    height: 90dvh;
+   border: solid 1px;
+
+}
